@@ -61,12 +61,17 @@ body {
   }
   
   .select-color.yellow {
+    margin: 0 3vw;
     border-bottom: 1vw solid #ffea4e;
   }
   
-  .select-color.magenta {
+  .select-color.red {
     margin: 0 3vw;
-    border-bottom: 1vw solid #ff2f9e;
+    border-bottom: 1vw solid red;
+  }
+  .select-color.green {
+    margin: 0 3vw;
+    border-bottom: 1vw solid greenyellow;
   }
   
   .not-selected{
